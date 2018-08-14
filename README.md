@@ -17,7 +17,7 @@ document.getElementsByName(String name)
 Returns a list of elements with the given name.
 
 document.querySelector(String selector)
-Returns the first Element node within the document, in document order, that matches the specified selectors.
+Returns the first Element node within the document, in document order, matches the specified selectors.
 
 document.querySelectorAll(String selector)
 Returns a list of all the Element nodes within the document that match the specified selectors.
